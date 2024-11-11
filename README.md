@@ -7,4 +7,4 @@ I’m currently a PhD student at the Politecnico di Torino, where I focus on cli
 - 🌍 **Research Interests**: climate change, climate modelling and climate dynamics
 
 ### Current Work
-I'm working on improving the accuracy of climate model simulations and to analyze the influence of atmospheric parameters on climate outputs. I'd like to contribute to the development of tools that support climate science and policy-making.
+I'm working on improving the accuracy of climate model simulations and to analyze the influence of atmospheric parameters on climate outputs.
